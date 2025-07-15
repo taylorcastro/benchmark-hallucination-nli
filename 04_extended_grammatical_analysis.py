@@ -6,11 +6,11 @@ import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 
-# Cargar modelo spaCy en inglés
+# Cargar modelo spaCy en inglÃ©s
 nlp = spacy.load("en_core_web_sm")
 
 # Rutas
-input_dir = Path("/home/dslab/teilor/atom/data/02_nli/05")  # Ajusta si es necesario
+input_dir = Path("/home/dslab/teilor/atom/data/02_nli/05") 
 output_dir = Path("/home/dslab/teilor/atom/data/03_gramatical_2.0")
 output_dir.mkdir(parents=True, exist_ok=True)
 
