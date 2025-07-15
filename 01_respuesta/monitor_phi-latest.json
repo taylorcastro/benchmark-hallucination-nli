@@ -1,0 +1,8 @@
+{
+  "modelo": "phi:latest",
+  "respuestas_totales": 3628,
+  "errores": 0,
+  "ram_inicio": 1489.79,
+  "ram_final": 1488.76,
+  "tiempo_total_s": 12037.54
+}

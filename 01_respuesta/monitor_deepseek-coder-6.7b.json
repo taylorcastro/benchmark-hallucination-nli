@@ -1,0 +1,8 @@
+{
+  "modelo": "deepseek-coder:6.7b",
+  "respuestas_totales": 3628,
+  "errores": 0,
+  "ram_inicio": 1488.76,
+  "ram_final": 1488.51,
+  "tiempo_total_s": 16484.09
+}

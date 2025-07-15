@@ -1,0 +1,8 @@
+{
+  "modelo": "mistral:7b",
+  "respuestas_totales": 3628,
+  "errores": 3,
+  "ram_inicio": 1489.06,
+  "ram_final": 1489.18,
+  "tiempo_total_s": 11823.7
+}

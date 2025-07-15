@@ -1,0 +1,8 @@
+{
+  "modelo": "llama3:latest",
+  "respuestas_totales": 3628,
+  "errores": 0,
+  "ram_inicio": 1489.34,
+  "ram_final": 1489.05,
+  "tiempo_total_s": 11831.23
+}
